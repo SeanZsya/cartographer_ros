@@ -12,9 +12,12 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 
+***Under this fork: Changed the value representation of occupancy grids, so they can corporate with ROS navigation stack.**
+
 ============================
 Cartographer ROS Integration
 ============================
+
 
 |build| |docs| |license|
 
